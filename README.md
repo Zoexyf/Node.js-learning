@@ -17,3 +17,7 @@
 6.npm i bootstrap
 
 7.npm install --save body-parser
+
+8.npm i blueimp-md5
+
+9.npm i express-session
